@@ -1,4 +1,8 @@
 pamdas 
 numpy
 seaborn
+matplotlib
+scikit-learn
+xgboost
+catboost
 -e .
